@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba20869c-b6ea-42ac-be8e-c1399b4d9b45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/DesafioArray.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayBuscaElementos.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayBuscaElementos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayInversaoArray.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayInversaoArray.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayMaiorMenorElementos.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayMaiorMenorElementos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayMutableListOf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrayMutableListOf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arraySoma.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arraySoma.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrays01.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrays01.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrays02.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrays/arrays02.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/ApresenteSe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioCadastro.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioCadastro.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioNotas.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioNotas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioNotasInput.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioNotasInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioSoma.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioSoma.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioTemperatura.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Desafios- aula2/DesafioTemperatura.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/for/ex-Desafio01.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/for/ex-NumerosPrimos.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/for/ex-NumerosPrimos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/for/ex2-NumerosPrimosInput.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/for/ex2-NumerosPrimosInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/01-ex-verificacao-input.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/02-ex-classificacaoNumerica.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/05-VerificacaoAcessoInput.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/05-VerificacaoAcessoInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/Ex-if-verificacaoIdade.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/Ex-if-verificacaoIdade.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex01-verificacao-input.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex02-classificacaoNumerica.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex03-Par-Impar.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex03-Par-Impar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex04-VerificacaoAcesso.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex04-VerificacaoAcesso.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex06-detran.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex07-CarroSalario.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/if-else/ex07-CarroSalario.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/when/ex01-AvaliacaoNota.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/when/ex01-AvaliacaoNota.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/while/ex01-Contagem-Regressiva.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/while/ex01-Contagem-Regressiva.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/while/ex02-SomaDosMultiplosDe3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/while/ex02-SomaDosMultiplosDe3.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;felipetosma&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/felipetosma/Mobile-application-development.git&quot;,
+    &quot;accountId&quot;: &quot;e4763f93-8624-478c-b477-e2cf76788430&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mAsSxHxXTj3428eNWl6G4oppIe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/FIAP/2 ANO/Mobile-application-development/ExerciciosAppsAndroid/App-ApresenteSe/ApresenteSe/settings.gradle.kts&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba20869c-b6ea-42ac-be8e-c1399b4d9b45" name="Changes" comment="" />
+      <created>1726530718119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726530718119</updated>
+    </task>
+    <servers />
+  </component>
+</project>
